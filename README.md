@@ -148,6 +148,14 @@ RichPathAnimator
 ```
 
 
+## TODO
+
+- Support clip-path
+- Path animation (animate a RichPath on a path)
+- ...
+
+If you have any suggestion please open an issue for it.
+
 ## Credits
 
 - [florent37](https://github.com/florent37) He is the creator of [ViewAnimator](https://github.com/florent37/ViewAnimator) which gave me the idea of this project. Some core concepts and ideas were reused, but everything is written from scratch.
